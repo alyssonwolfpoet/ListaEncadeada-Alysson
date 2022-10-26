@@ -1,0 +1,12 @@
+Playlist
+https://www.youtube.com/watch?v=N3K8PjFOhy4&list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi
+
+GitHub
+https://github.com/loiane/estrutura-dados-algoritmos-java
+
+Visual Studio Code:
+https://code.visualstudio.com/
+
+Pacote extensões Java: 
+https://code.visualstudio.com/docs/java/java-tutorial
+https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
